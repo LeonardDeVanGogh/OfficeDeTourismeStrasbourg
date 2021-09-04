@@ -1,0 +1,66 @@
+/*
+Theme Name: sydney-child
+Template: sydney
+Theme URI: https://athemes.com/theme/sydney
+Author: aThemes
+Author URI: https://athemes.com
+Description: Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page.
+Version: 1.53
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sydney
+Tags: two-columns, right-sidebar, custom-colors, custom-background, custom-header, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+Sydney is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+*/
+
+
+.survol:hover
+{
+    background-color:lightgrey;
+}
+figure
+{
+	position:relative;
+	max-width:360px;
+	margin:20px;
+}
+.legendeFigure
+{
+	position:absolute;
+	bottom:16px;
+	height:30%;
+	width:100%;
+	font-size:2em;
+	background-color:black;
+}
+.legendeFigure p
+{
+	text-align:center;
+}
+.legendeFigure
+{
+	-moz-transform: translate3d(0, 0, 0); 
+	-webkit-transform: translate3d(0,0, 0);
+	transform: translate3d(0, 0, 0);
+	opacity: 0;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+}
+figure.europaParl:hover .legendeFigure{
+	-moz-transform: translate3d(0, 0, 0); 
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	transition: all 1s;
+	opacity:0.8;
+/*}
+.site-info{
+    background-color:#d65050;
+}*/
+  
+	

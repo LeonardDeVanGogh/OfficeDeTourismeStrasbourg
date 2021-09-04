@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Contenu de démonstration were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ocofficedetourismestrasbourg
+Data file = C:\wamp64\www\ocofficedetourismestrasbourg/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = C:\wamp64\www\ocofficedetourismestrasbourg/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = C:\wamp64\www\ocofficedetourismestrasbourg/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Barre : 
+
+Rechercher - No Title - Widget already exists
+Articles récents - No Title - Widget already exists
+Commentaires récents - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Catégories - No Title - Widget already exists
+Méta - No Title - Widget already exists
+
+Pied1 : 
+
+Vidéo - No Title - Imported
+
+Pied2 : 
+
+Texte - No Title - Imported
+
+Pied3 : 
+
+Sydney : Infos de contact - Get in touch - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

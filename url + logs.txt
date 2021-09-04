@@ -1,0 +1,23 @@
+url: http://ocofficedetourismestrasbourg.eu/
+admin:
+	user="admin"
+	password="Welcometomynightmare!"
+
+	user="otstrasbourg"
+	password="@officedutourismestrasbourg"
+
+SQL
+/** Nom de la base de données de WordPress. */
+define('DB_NAME', 'db769217076');
+
+/** Utilisateur de la base de données MySQL. */
+define('DB_USER', 'dbo769217076');
+
+/** Mot de passe de la base de données MySQL. */
+define('DB_PASSWORD', 'azerty1234');
+
+/** Adresse de l’hébergement MySQL. */
+define('DB_HOST', 'db769217076.hosting-data.io');
+
+/** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
+define('DB_CHARSET', 'utf8mb4');
